@@ -16,7 +16,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 https://quickenglish.ml
 rss:                 rss feed url
-baseurl:             ''
+baseurl:             'quickenglish.ml'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
